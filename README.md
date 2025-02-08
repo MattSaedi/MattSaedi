@@ -5,5 +5,7 @@
 
 ### Contact Me!
 <p><a href="https://www.linkedin.com/in/mattsaedi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://www.medium.com/@mattsaedi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
 [linkedin]: https://www.linkedin.com/in/mattsaedi/
+[medium]: https://www.medium.com/@mattsaedi
